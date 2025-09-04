@@ -40,6 +40,8 @@ CSS Styling: External stylesheet applied for responsive layouts, consistent spac
 
 Accessibility & Usability: Skip navigation link, semantic markup, and descriptive text for all media elements ensure an inclusive user experience.
 
+***
+
 Submission Objective:
 
 This assignment demonstrates the ability to deliver a clean, organized, and fully functional web page that integrates content structure, visual styling, interactive media, and accessible forms. Both files work together seamlessly to create a professional, engaging, and polished web experience.
